@@ -14,7 +14,7 @@ email: wallefsousa1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   O Jekyll é um gerador de site estático, simples, com reconhecimento de blogs, 
   para sites pessoais, de projetos ou de organizações. Escrito em Ruby
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 github_username:  github_WallefS
 facebook_username: wallef.sousa.9
