@@ -18,7 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 github_username:  WallefS
 facebook_username: wallef.sousa.9
-linkedin_username: wallefsousa/
+linkedin_username: wallefsousa
+
 
 
 # Build settings
