@@ -16,9 +16,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   explanar um pouco do meu conhecimento adquirido sobre tecnologia!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
-github_username:  github_WallefS
+github_username:  WallefS
 facebook_username: wallef.sousa.9
-linkedin_username: in/wallefsousa/
+linkedin_username: wallefsousa/
+
 
 # Build settings
 markdown: kramdown
