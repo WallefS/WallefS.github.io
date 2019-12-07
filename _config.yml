@@ -12,8 +12,8 @@
 title: WSO
 email: wallefsousa1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blogzinho feito utilizando o jekyll um gerador de paginas estaticas para 
-  explanar um pouco do meu conhecimento adquirido sobre tecnologia!
+  Blog made using jekyll a generator of statistical pages to explain 
+  some of my acquired knowledge about technology!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 github_username:  WallefS
